@@ -14,4 +14,6 @@ langchain==0.0.153
 streamlit==1.22.0
 
 # ChatPDF/gui/history.py: 5
-streamlit_chat_media == 0.0.4
+streamlit_chat_media==0.0.4
+
+pypdf==3.8.1
